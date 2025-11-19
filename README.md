@@ -1,6 +1,8 @@
 🔍 Semantic News Analysis with BGE-M3
 
-[Streamlit] [Hugging Face] [Python]
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
 Система семантического поиска и анализа новостных заголовков на основе
 модели BGE‑M3 от VK и датасета ru‑HNP.
@@ -18,7 +20,7 @@
 Локальный запуск
 
     # Клонирование репозитория
-    git clone https://github.com/your-username/Semantic-News-Analysis-with-BGE-M3.git
+    git clone https://github.com/your-username/semantic-news-analysis.git
     cd semantic-news-analysis
 
     # Установка зависимостей
